@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @josephbl74
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Information Techs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+- 🌱 I’m currently studying telecommunications engineering
 
 <!---
 josephbl74/josephbl74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
